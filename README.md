@@ -6,7 +6,7 @@ Used to add new circles to existing placed circles.
 
 For instance to add new models to a scene already having other models.
 
-[![Watch the effect](https://github.com/davychxn/circlespacking/blob/main/resources/screenshot1.jpg)
+[Watch the effect](https://github.com/davychxn/circlespacking/blob/main/resources/screenshot1.jpg)
 
 
 

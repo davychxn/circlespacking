@@ -8,7 +8,7 @@ For instance to add new models to a scene already having other models.
 
 ![Watch the effect](https://github.com/davychxn/circlespacking/blob/main/resources/screenshot1.jpg)
 
-
+<video src="resources/lv_0_20240530084625.mp4" width=640/>
 
 Used QT QVector2D libraries to do 3D/2D math.
 

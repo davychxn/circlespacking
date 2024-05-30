@@ -6,6 +6,8 @@ Used to add new circles to existing placed circles.
 
 For instance to add new models to a scene already having other models.
 
+[![Watch the video](resources/screenshot1.jpg)](resources/lv_0_20240530084625.mp4)
+
 Used QT QVector2D libraries to do 3D/2D math.
 
 # Usage:
